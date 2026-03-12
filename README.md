@@ -18,7 +18,7 @@ The `.github` folder contains the current drafts. Everything else is intentional
 
 ## Previewing the templates
 
-1. Go to **Issues** → **New Issue**
-2. You'll see each template listed as a separate option
+1. Three example issues have been created corresponding to the three templates (Bug, Feature, General)
+2. Create a new Issue: Go to **Issues** → **New Issue**, then you'll see each template listed as a separate option
 
 Alternatively, browse the files directly in the [`.github`](.github) folder.
