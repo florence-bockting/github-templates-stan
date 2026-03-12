@@ -14,7 +14,11 @@ The `.github` folder contains the current drafts. Everything else is intentional
 
 - Initial templates are available in `.github`
 - GitHub templates (`.md`) are preferred over GitHub forms (`.yml`) — agreed in the [Stan Slack `#developer` channel](https://mc-stan.slack.com/archives/C7V03NJHL/p1773220124970069)
-- Discussion is ongoing — open an issue, PR etc. to contribute
+- Discussion is ongoing
+
+## How to contribute?
+- For general comments, ideas the `Disccusions` section might be useful
+- For direct changes in the templates feel free to create a PR, Issue etc.
 
 ## Previewing the templates
 
