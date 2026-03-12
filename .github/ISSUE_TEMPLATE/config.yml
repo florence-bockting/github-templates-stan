@@ -1,0 +1,7 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and General Discussion
+    url: https://discourse.mc-stan.org/
+    about: >
+      For questions, ideas in early stages, or general help — please use
+      the Stan Discourse rather than opening an issue.
