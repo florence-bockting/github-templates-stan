@@ -1,8 +1,11 @@
 ---
 name: General Issue
-description: Anything that does not fit the Bug, Feature, or Refactoring templates — e.g. documentation gaps, CI problems, dependency updates.
+about: Anything that does not fit the Bug or Feature templates; e.g. documentation
+  gaps, CI problems, dependency updates.
 title: "[General]: "
-labels: ["triage"]
+labels: triage
+assignees: ''
+
 ---
 
 Use this template only when none of the other templates fit your needs.

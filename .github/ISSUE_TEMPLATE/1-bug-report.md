@@ -1,8 +1,10 @@
 ---
 name: Bug Report
-description: Report a reproducible bug or unexpected behaviour.
+about: Report a reproducible bug or unexpected behaviour.
 title: "[Bug]: "
-labels: ["bug", "triage"]
+labels: bug, triage
+assignees: ''
+
 ---
 
 Before submitting, please search existing issues to avoid duplicates.

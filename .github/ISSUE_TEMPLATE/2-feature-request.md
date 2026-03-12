@@ -1,8 +1,10 @@
 ---
 name: Feature Request
-description: Propose a new feature or enhancement.
+about: Propose a new feature or enhancement.
 title: "[Feature]: "
-labels: ["enhancement", "triage"]
+labels: enhancement, triage
+assignees: ''
+
 ---
 
 Before submitting, please search existing issues and discussions to check whether this feature has already been proposed.
