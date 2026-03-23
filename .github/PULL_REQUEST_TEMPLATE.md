@@ -5,44 +5,31 @@
   Delete any sections that are not relevant to your change.
 -->
 
-## TODO (Complete Before Requesting Review)
+## Compliance & AI Disclosure
+> This section is mandatory. Do not delete this section. PRs that leave it blank will not be reviewed.
 
-> Every item below must be addressed before this PR is marked ready for review.
+- [ ] I have read the [Contributing Guidelines](../CONTRIBUTING.md).
+- [ ] I accept the [Developer Certificate of Origin](https://developercertificate.org).
+- [ ] I have read and comply with the [AI Contribution Policy](../AI_policy.md).
 
-- [ ] I have read and understood the [Contributing Guidelines](../CONTRIBUTING.md).
-- [ ] **For refactors or larger changes:** An issue was opened first, the community discussed the topic, and explicit approval was given by a maintainer before I began coding.
-  - Approved issue: # <!-- link the issue number here -->
-- [ ] The expected final result was agreed upon in the linked issue discussion prior to opening this PR, and this PR delivers exactly that result.
-- [ ] My branch is up-to-date with the target branch (`main` / `develop`).
-- [ ] All existing tests pass locally.
-- [ ] I have added or updated tests to cover my changes.
-- [ ] I have updated relevant documentation (README, inline docs, changelogs, etc.).
-- [ ] **If this PR includes or modifies notebooks (`.ipynb` / `.Rmd` / `.qmd`):** All notebooks knit / render successfully end-to-end in a clean local environment, and no absolute paths or machine-specific dependencies are present.
+**AI Tool Usage Disclosure:**
+*Did you use AI tools (e.g. GitHub Copilot, ChatGPT, Claude, Cursor, etc.) for this PR?*
 
----
+- [ ] **No AI used.** This PR consists entirely of my own original work.
+- [ ] **AI-Assisted (Minor).** AI was used for boilerplate, syntax, or autocomplete.
+- [ ] **AI-Generated (Major).** AI generated significant logic or entire sections.
 
-## AI Use Disclosure
+> **Note:** If AI was used, I affirm that I have reviewed every line, fully understand the logic and security implications, and am prepared to explain or defend the technical decisions therein during the review process.
 
-> This section is mandatory. PRs that leave it blank will not be reviewed.
+## Pre-Review Checklist
+> Please ensure these steps are completed before requesting a review.
 
-**Did you use AI tools (e.g. GitHub Copilot, ChatGPT, Claude, Cursor, etc.) while working on this PR?**
-
-- [ ] No, this PR was written entirely by me.
-- [ ] Yes, as a coding assistant. AI was used for specific parts (autocomplete, syntax, boilerplate). I have reviewed every line and fully understand all changes.
-- [ ] Yes, more extensively. AI generated larger sections of this PR. I have reviewed, tested, and can explain every line as if I had written it myself.
-
-> If you checked the last box, describe below:
-> - Which parts were AI-generated?
-> - What verification steps did you take (reading, testing, benchmarking)?
-> - Can you explain the approach and defend design decisions in a review conversation?
-
-<!-- Your answer here, if applicable -->
-
-> **Autonomous / agentic submissions are not accepted.**
-> A real person must understand, take responsibility for, and be able to defend every
-> change in this PR. PRs submitted by automated agents or bots without meaningful
-> human oversight will be closed without review.
-
+- [ ] **Coordination:** For non-trivial changes, an issue was opened and approved by a maintainer. (Link: #____)
+- [ ] **Alignment:** The PR delivers the specific result agreed upon in the linked issue.
+- [ ] **Sync:** Branch is up-to-date with `main` / `develop`.
+- [ ] **Quality:** All existing tests pass locally, and I have added new tests for my changes.
+- [ ] **Docs:** Documentation (README, inline comments, or changelogs) has been updated.
+- [ ] **Notebooks:** If applicable, all `.qmd` / `.Rmd` files render end-to-end in a clean environment without machine-specific paths.
 ---
 
 ## Summary
@@ -51,15 +38,13 @@
 
 Closes # <!-- issue number -->
 
-## Type of Change
+### Type of Change
 
-- [ ] Bug fix (non-breaking change that fixes an issue)
-- [ ] New feature (non-breaking change that adds functionality)
-- [ ] Breaking change (fix or feature that causes existing behaviour to change)
-- [ ] Refactoring (no functional change, code quality improvement)
-- [ ] Documentation only
-- [ ] Build / CI / tooling change
-- [ ] Dependency update
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Breaking change (requires behaviour change/migration)
+- [ ] Refactoring (no functional change)
+- [ ] Documentation / Tooling / CI
 
 ## What Changed
 
@@ -74,7 +59,7 @@ Closes # <!-- issue number -->
 -
 -
 
-## Expected Final Result
+## Expected Result
 
 <!--
   Describe concretely what "done" looks like for this PR.
@@ -82,6 +67,6 @@ Closes # <!-- issue number -->
   Include screenshots, logs, or demo output where helpful.
 -->
 
-## Additional Context (Optional)
+**Additional Context**
 
 <!-- Links to design docs, related PRs, Slack discussions, etc. -->
