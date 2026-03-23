@@ -8,9 +8,9 @@
 ## Compliance & AI Disclosure
 > This section is mandatory. Do not delete this section. PRs that leave it blank will not be reviewed.
 
-- [ ] I have read the [Contributing Guidelines](../CONTRIBUTING.md).
+- [ ] I have read the [Contributing Guidelines](../blob/main/.github/CONTRIBUTING.md).
 - [ ] I accept the [Developer Certificate of Origin](https://developercertificate.org).
-- [ ] I have read and comply with the [AI Contribution Policy](../AI_policy.md).
+- [ ] I have read and comply with the [AI Contribution Policy](../blob/main/AI_policy.md).
 
 **AI Tool Usage Disclosure:**
 *Did you use AI tools (e.g. GitHub Copilot, ChatGPT, Claude, Cursor, etc.) for this PR?*
