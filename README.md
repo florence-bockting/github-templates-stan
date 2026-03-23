@@ -8,7 +8,8 @@ The `.github` folder contains the current drafts. Everything else is intentional
 
 - Which issue and PR templates to adopt for Stan repositories
 - What default content and structure each template should contain
-- Any additional files or conventions worth discussing (e.g., Contributing.md, AI_POLICY.md)
+- Initial draft of an `AI Contribution Policy` template (AI_POLICY.md)
+- Any additional files or conventions worth discussing (e.g., Contributing.md)
 
 ## Current status
 
