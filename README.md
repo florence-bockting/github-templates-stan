@@ -1,4 +1,4 @@
-# GitHub Templates
+# Discussion on GitHub Templates
 
 This repository exists as a neutral space for the Stan community to collaboratively decide on GitHub templates for Stan repositories.
 
