@@ -7,16 +7,12 @@ assignees: ''
 
 ---
 
-Before submitting, please search existing issues and discussions to check whether this feature has already been proposed.
-Implementation will only begin once maintainers or the community have explicitly approved the approach in this issue thread.
+For questions or general help, please use [Stan Discourse](https://discourse.mc-stan.org/) instead of this tracker.
 
 ## Pre-submission checklist
 
-- [ ] I have read and understood the [Contributing Guidelines](../CONTRIBUTING.md).
 - [ ] I have searched the existing issues and confirmed that this is not a duplicate. I have linked any related issues.
-- [ ] I understand that implementation will only start once there is explicit approval or consensus from maintainers or the community in this thread.
-- [ ] If this feature involves a notebook (`.ipynb` / `.Rmd` / `.qmd`): Any example or proof-of-concept notebook I provide knits / renders successfully in a clean local environment.
-- [ ] **AI use:** If I used an AI tool to help draft this issue, I have reviewed the output carefully and confirm that all information is accurate and personally verified.
+- [ ] **AI use:** If I used an AI tool to help draft this issue, I have reviewed every line and am prepared to explain or defend reasoning
 
 ## Summary
 

@@ -1,9 +1,10 @@
 # Pull Request
 
-<!--
-  One PR per logical change. Keep the scope focused so this is easy to review.
-  Delete any sections that are not relevant to your change.
--->
+> 💡
+> **Does your PR contain only a trivial change?**
+> If so, please use the [lightweight PR template](?template=trivial-pr.md) instead.
+>
+> Examples of trivial changes: typo fixes, minor documentation improvements, fixing links, etc.
 
 ## Compliance & AI Disclosure
 > This section is mandatory. Do not delete this section. PRs that leave it blank will not be reviewed.
