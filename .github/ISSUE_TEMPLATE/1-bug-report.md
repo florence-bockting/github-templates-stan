@@ -7,15 +7,13 @@ assignees: ''
 
 ---
 
-Before submitting, please search existing issues to avoid duplicates.
 For questions or general help, please use [Stan Discourse](https://discourse.mc-stan.org/) instead of this tracker.
 
 ## Pre-submission checklist
 
-- [ ] I have read and understood the [Contributing Guidelines](../CONTRIBUTING.md).
 - [ ] I have searched the existing issues and confirmed that this is not a duplicate. I have linked any related issues.
-- [ ] If this issue involves a notebook (`.ipynb` / `.Rmd` / `.qmd`): I have verified that the notebook knits / renders successfully in a clean local environment before submitting.
-- [ ] **AI use:** If I used an AI tool to help draft this issue, I have reviewed the output carefully and confirm that all information is accurate and personally verified.
+- [ ] **AI use:** If I used an AI tool to help draft this issue, I have reviewed every line and am prepared to explain or defend reasoning
+
 
 ## Bug description
 
@@ -40,8 +38,10 @@ For questions or general help, please use [Stan Discourse](https://discourse.mc-
 ## Environment
 
 - **Operating system:** <!-- e.g. Ubuntu 24.04, macOS 14, Windows 11 -->
-- **Runtime / language version:** <!-- e.g. R 4.4.1, Python 3.12 -->
-- **Package version or git ref:** <!-- e.g. 1.3.0 or commit abc1234 -->
+- **<language> version:** <!-- e.g. R 4.4.1, Python 3.12 -->
+- **<Package> version:** <!-- e.g. 1.3.0 -->
+
+> Note: This is a template, <language> should be replaced by e.g. "R" or "Python" and <Package> by e.g. "bayesplot"
 
 ## Additional context
 
