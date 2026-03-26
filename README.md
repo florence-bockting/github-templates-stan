@@ -28,3 +28,5 @@ The `.github` folder contains the current drafts. Everything else is intentional
 3. Create a new Issue: Go to **Issues** → **New Issue**, then you'll see each template listed as a separate option
 
 Alternatively, browse the files directly in the [`.github`](.github) folder.
+
+Note: This is some trivial change
