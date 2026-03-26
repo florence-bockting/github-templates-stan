@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-For questions or general help, please use [Stan Discourse](https://discourse.mc-stan.org/) instead of this tracker.
+> Note, please use this template only if none of the other issue categories fit or you address a trivial change (e.g., typo, link issues, missing documentation)
+>
+> For questions or general help, please use [Stan Discourse](https://discourse.mc-stan.org/) instead of this tracker.
 
 ## Pre-submission checklist
 
