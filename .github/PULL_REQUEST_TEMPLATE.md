@@ -2,9 +2,11 @@
 
 > 💡
 > **Does your PR contain only a trivial change?**
-> If so, please use the [lightweight PR template](?template=trivial-pr.md) instead.
+> 
+> If your PR consists of minor updates, such as fixing a typo, updating a link,
+> or making small documentation tweaks, you can use our **[Lightweight PR Template](?template=trivial-pr.md)** to save time.
 >
-> Examples of trivial changes: typo fixes, minor documentation improvements, fixing links, etc.
+> (Note: Switch to Preview mode to click the link. It will redirect you to open a new PR using the shorter template.)
 
 ## Compliance & AI Disclosure
 > This section is mandatory. Do not delete this section. PRs that leave it blank will not be reviewed.
