@@ -36,7 +36,8 @@ new to you.
 
 *   Make your changes, commit to git, and then create a PR by running `usethis::pr_push()`, and following the prompts in your browser.
     The title of your PR should briefly describe the change.
-    The body of your PR should contain `Fixes #issue-number`.
+
+*   This repository provides two PR templates: a *default template* for regular changes and a *lightweight template* for trivial changes (e.g. typo fixes, minor documentation updates, link fixes). When opening a PR, the default template will be pre-filled automatically. A link to the lightweight template is provided in the top of the default PR. Alternatively, you can append the PR URL with `<PR URL>?template=trivial_pull_request_template.md` which will redirect you to the lightweight PR template.
 
 *  For user-facing changes, add a bullet to the top of `NEWS.md` (i.e. just below the first header). Follow the style already used in `NEWS.md`.
 
